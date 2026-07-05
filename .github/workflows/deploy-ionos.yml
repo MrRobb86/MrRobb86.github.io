@@ -1,9 +1,10 @@
 # Automatisches Deployment zu IONOS bei jedem Push auf main.
 # Voraussetzung: drei Repository-Secrets (Settings > Secrets and variables > Actions):
-#   IONOS_HOST      – FTPS-/SFTP-Hostname aus dem IONOS Control-Center (z.B. access-XXXXXXXXX.webspace-host.com)
-#   IONOS_USER      – FTP-Benutzername (z.B. u123456789 oder acc...)
+#   IONOS_HOST      – SFTP-Hostname aus dem IONOS Control-Center (access-XXXXXXXXX.webspace-host.com)
+#   IONOS_USER      – SFTP-Benutzername (z.B. a1234567)
 #   IONOS_PASSWORD  – zugehöriges Passwort
-# Der Workflow lädt nur GEÄNDERTE Dateien hoch (Sync-Statusdatei auf dem Server).
+# Hinweis: Dieser IONOS-Vertrag unterstützt nur SFTP (Port 22), kein FTPS.
+# Deshalb erfolgt der Upload per lftp mirror über SFTP.
 name: Deploy zu IONOS
 
 on:
@@ -18,22 +19,20 @@ jobs:
       - name: Repo auschecken
         uses: actions/checkout@v4
 
-      - name: Per FTPS zu IONOS hochladen
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.IONOS_HOST }}
-          username: ${{ secrets.IONOS_USER }}
-          password: ${{ secrets.IONOS_PASSWORD }}
-          protocol: ftps
-          # Zielverzeichnis auf dem Webspace. "./" = Stammverzeichnis des FTP-Zugangs.
-          # Falls robbe-consulting.de auf einen Unterordner zeigt (im IONOS
-          # Control-Center unter Domains > Verwendung sichtbar), hier anpassen,
-          # z.B. "robbe-consulting/" .
-          server-dir: ./
-          exclude: |
-            **/.git*
-            **/.git*/**
-            .github/**
-            README.md
-            .nojekyll
-            .gitignore
+      - name: lftp installieren
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+
+      - name: Per SFTP zu IONOS hochladen
+        env:
+          IONOS_HOST: ${{ secrets.IONOS_HOST }}
+          IONOS_USER: ${{ secrets.IONOS_USER }}
+          IONOS_PASSWORD: ${{ secrets.IONOS_PASSWORD }}
+        run: |
+          cat > /tmp/deploy.lftp <<'EOF'
+          set sftp:auto-confirm yes
+          set net:max-retries 2
+          set net:timeout 30
+          mirror -R --verbose --no-perms --exclude ^\.git/ --exclude ^\.github/ --exclude ^README\.md$ --exclude ^\.gitignore$ --exclude ^\.nojekyll$ --exclude ^\.ftp-deploy-sync-state\.json$ ./ ./
+          quit
+          EOF
+          lftp -u "$IONOS_USER","$IONOS_PASSWORD" "sftp://$IONOS_HOST" -e "source /tmp/deploy.lftp"
