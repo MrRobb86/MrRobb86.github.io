@@ -1,0 +1,112 @@
+Options -Indexes -MultiViews
+
+# -------------------------------------------------------
+# Character encoding
+# -------------------------------------------------------
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .htm .css .js .json .txt .xml .svg
+
+# Explicit Content-Type for text files
+<FilesMatch "(llms\.txt|llms-full\.txt|robots\.txt)$">
+  Header set Content-Type "text/plain; charset=utf-8"
+</FilesMatch>
+<FilesMatch "\.xml$">
+  Header set Content-Type "application/xml; charset=utf-8"
+</FilesMatch>
+<FilesMatch "\.html$">
+  Header set Content-Type "text/html; charset=utf-8"
+</FilesMatch>
+
+# -------------------------------------------------------
+# Security headers
+# -------------------------------------------------------
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+# -------------------------------------------------------
+# Compression (gzip via mod_deflate; Brotli falls verfügbar)
+# -------------------------------------------------------
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml
+  AddOutputFilterByType DEFLATE text/javascript application/javascript application/json
+  AddOutputFilterByType DEFLATE application/xml image/svg+xml
+</IfModule>
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/css text/xml
+  AddOutputFilterByType BROTLI_COMPRESS text/javascript application/javascript application/json
+  AddOutputFilterByType BROTLI_COMPRESS application/xml image/svg+xml
+</IfModule>
+
+# -------------------------------------------------------
+# Cache control
+# Gehashte Assets (js/css/fonts): 1 Jahr immutable.
+# Bilder OHNE Hash im Namen: 30 Tage, damit Austausch ankommt.
+# -------------------------------------------------------
+<FilesMatch "\.(js|css|woff2?|ttf|eot|otf)$">
+  Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+<FilesMatch "\.(svg|png|jpg|jpeg|webp|gif|ico)$">
+  Header set Cache-Control "public, max-age=2592000"
+</FilesMatch>
+<FilesMatch "\.(html|htm)$">
+  Header set Cache-Control "no-cache, must-revalidate"
+</FilesMatch>
+
+# -------------------------------------------------------
+# URL-Kanonisierung – Ziel: GENAU EINE erreichbare URL pro Seite,
+# identisch mit Canonical-Tag und Sitemap (ohne Trailing-Slash).
+# Reihenfolge: 1. Schutz statischer Dateien  2. http->https
+# 3. www->non-www  4. /index.html-Varianten  5. *.html->clean URL
+# 6. Trailing-Slash entfernen (auch Verzeichnisse!)  7. interne Zustellung
+# -------------------------------------------------------
+
+# Apache darf Verzeichnis-URLs NICHT selbst auf .../ umleiten –
+# sonst wird die kanonische URL /ki-beratung zur Weiterleitung
+# (Ursache der "Seite mit Weiterleitung"-Meldungen in der Search Console).
+DirectorySlash Off
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # 1. Statische Root-Dateien niemals umleiten
+  RewriteRule ^(robots\.txt|llms\.txt|llms-full\.txt|sitemap\.xml|geo-seite\.txt|og-image\.jpg)$ - [L]
+
+  # 2. http -> https (localhost ausgenommen, damit lokales Testen möglich bleibt)
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP_HOST} !^(localhost|127\.) [NC]
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+  # 3. www -> non-www
+  RewriteCond %{HTTP_HOST} ^www\.robbe-consulting\.de [NC]
+  RewriteRule ^(.*)$ https://robbe-consulting.de/$1 [R=301,L]
+
+  # 4. /index.html und /seite/index.html -> saubere URL
+  RewriteCond %{THE_REQUEST} \s/+(?:(.+)/)?index\.html[\s?] [NC]
+  RewriteRule ^ /%1 [R=301,L]
+
+  # 5. Übrige *.html -> saubere URL ohne .html
+  RewriteCond %{THE_REQUEST} \s/+([^.]+)\.html[\s?] [NC]
+  RewriteRule ^ /%1 [R=301,L]
+
+  # 6. Trailing-Slash entfernen – ausdrücklich AUCH für Verzeichnisse,
+  #    z.B. /ki-beratung/ -> /ki-beratung (Zustellung übernimmt Regel 7)
+  RewriteCond %{REQUEST_URI} ^/(.+)/$
+  RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+  # 7. Interne Zustellung (KEIN Redirect): saubere URL -> index.html im Verzeichnis
+  RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
+  RewriteRule ^(.+?)$ $1/index.html [L]
+
+  # -------------------------------------------------------
+  # 404-Handling: Alle Seiten existieren vorgerendert als Verzeichnis.
+  # Unbekannte URLs bekommen einen ECHTEN 404-Status (kein Soft-404
+  # mit Status 200 mehr) und die gestaltete 404-Seite.
+  # -------------------------------------------------------
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ - [R=404,L]
+</IfModule>
+
+ErrorDocument 404 /404.html

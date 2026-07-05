@@ -1,0 +1,34 @@
+# Robbe Sales & AI Consulting - KI-Beratung & Vertrieb für den Mittelstand
+
+> Robbe Sales & AI Consulting ist eine B2B-Beratung aus Baiersbronn (Schwarzwald),
+> spezialisiert auf KI-Beratung, KI-Schulungen und Vertriebscoaching für KMU und
+> Mittelstand in traditionellen Branchen wie Land- und Baumaschinen sowie Baustoffe.
+
+Inhaber ist Florian Robbe, der über 18 Jahre Vertriebserfahrung mit modernen
+KI-Tools und Automatisierung verbindet. Beraten werden vor allem Unternehmen aus
+der DACH-Region. Der Fokus liegt auf praxisnaher Umsetzung, anbieterunabhängigen
+Lösungen und Datenschutz nach deutschem bzw. EU-Recht.
+
+## Leistungen
+
+- KI-Beratung: https://robbe-consulting.de/ki-beratung - KI-Strategie und Use-Case-Analyse für KMU
+- KI-Workflows & Agenten: https://robbe-consulting.de/ki-workflows - Automatisierung, Agenten und Wissensdatenbanken
+- Vertriebscoaching: https://robbe-consulting.de/coaching - Sales-Coaching auf Basis von 18 Jahren Praxis
+- Training & Schulung (Übersicht): https://robbe-consulting.de/training - Überblick über alle Schulungs- und Trainingsangebote
+- Vertriebsschulungen: https://robbe-consulting.de/vertriebsschulungen - Für Jungverkäufer, Fortgeschrittene und Führungskräfte
+- KI-Schulungen: https://robbe-consulting.de/ki-schulungen - LLMs, Prompting, Agenten, Automatisierung und Vibe Coding
+- KI-Führerschein: https://robbe-consulting.de/ki-fuehrerschein - Zertifizierung für KI-Kompetenz im Unternehmen
+- EU AI Act & Datenschutz: https://robbe-consulting.de/eu-ai-act - Compliance-Schulung zu EU AI Act und DSGVO
+- Robbe AI Co-Pilot: https://robbe-consulting.de/ai-copilot - Sichere KI-Plattform mit Serverstandort Deutschland
+- Fonio KI-Telefonagent: https://robbe-consulting.de/fonio - KI-Telefonassistent für Anrufannahme und Terminierung (Fonio-Gold-Partner)
+
+## Über uns
+
+- Startseite: https://robbe-consulting.de/ - Florian Robbe, Hintergrund, Ansatz und Branchenfokus
+
+## Kontakt & Rechtliches
+
+- Kontakt: https://robbe-consulting.de/kontakt - Härlisberg 3, 72270 Baiersbronn | Florian.Robbe@robbe-consulting.de | +49 156 79659650
+- Impressum: https://robbe-consulting.de/impressum
+- Datenschutz: https://robbe-consulting.de/datenschutz
+- AGB: https://robbe-consulting.de/agb

@@ -1,0 +1,654 @@
+# Robbe Sales & AI Consulting – Vollständiger Seiteninhalt
+
+> Volltext der wichtigsten Seiten von robbe-consulting.de für KI-Modelle.
+> Stand: 07.06.2026.
+
+---
+
+## Seite: https://robbe-consulting.de/
+**Titel**: Startseite – Robbe Sales & AI Consulting
+
+Robbe Sales & AI Consulting · Baiersbronn
+Praxis trifft
+Vertrieb und Unternehmensprozesse neu gedacht.
+Robbe Sales &amp; AI Consulting ist eine B2B-Beratung aus Baiersbronn (Schwarzwald), spezialisiert auf KI-Beratung, KI-Schulungen und Vertriebscoaching für KMU und Mittelstand. Inhaber Florian Robbe verbindet 18 Jahre Vertriebserfahrung mit moderner KI-Expertise – damit Ihr Unternehmen
+ready für die Zukunft
+Jetzt Kontakt aufnehmen
+Leistungen entdecken
+Dringlichkeit
+Beschäftigst
+dich mit KI schon heute –
+oder wartest DU noch auf Morgen?
+Leistungen
+Drei Säulen – aber nichts ohne KI
+Mehr erfahren →
+KI ist nicht
+ChatGPT ist ein Interface. KI ist eine unternehmerische Disziplin. Relevanz entsteht durch Wirkung – nicht durch Tools.
+KI-Beratung kennenlernen →
+Über Florian Robbe
+Praktiker, kein Theoretiker.
+Ich begleite Handelsunternehmen mit eigenem Außendienst im B2B – Baustoffhändler, Bauzubehörhändler, Land- & Baumaschinenhändler, Handelsfirmen mit Außendienst sowie Handwerksbetriebe.
+Mein Ansatz:
+Vertrauen & Qualifikation
+Auszeichnungen & Partnerschaften
+Der Umsetzer:
+Master IT-Ingenieurwesen mit Spezialisierung in Machine Learning (KIT Karlsruhe)
+Er entwickelt praxisnahe KI-Workflows, berät Kunden bei der Prozessanalyse und setzt das Erarbeitete gemeinsam mit ihnen um. Eigene Projekte, echte Ergebnisse.
+Das sind meine aktuellen Angebote
+Starte jetzt
+Bereit, READY für die Zukunft zu werden?
+Lass uns in einem kostenlosen Erstgespräch herausfinden, wo KI in deinem Unternehmen den größten Hebel hat.
+Kostenloses Erstgespräch anfragen
+Vertriebsschulung & Coaching
+18 Jahre B2B-Vertrieb, praxisnah und konkret. Vom Grundlagen-Training bis zum CoachingPass – immer mit KI-Integration.
+KI-Workflows & Automatisierungen
+Prozesse digitalisieren, maßgeschneiderte Software bauen, Agenten und RAGs einsetzen – wir schauen uns deine Prozesse an und setzen um.
+KI-Beratung
+Strategische KI-Integration in 12 Schritten. EU AI Act-konform, DSGVO-sicher, mit echtem Change Management vor Ort.
+KI-Führerschein
+Online-Schulungsprogramm – von den Basics bis zum Prompting-Profi. Mit 90-Tage-Fahrplan und WissensGPT statt Handout.
+Fonio – KI-Telefonagent
+Dein Telefon nimmt Anrufe an wie ein Mitarbeiter – 24/7, auf Deutsch, DSGVO-konform, Serverstandort Deutschland.
+EU AI Act & KI-Richtlinien
+Seit 2.8.2025 sind KI-Richtlinien gesetzlich verpflichtend. Wir erstellen sie gemeinsam mit dir.
+Robbe AI Co-Pilot
+Sichere KI-Nutzung, eigene Agenten, Wissensdatenbanken und fertige Vorgehensmodelle – alles an einem Ort.
+bbi Bundesverband
+LandBauTechnik Bundesverband
+Networking
+Veranstaltung
+Finanzielle Chancen
+Unternehmen, die KI heute einsetzen, senken Kosten und steigern Umsatz messbar – während Wettbewerber noch abwarten.
+Wettbewerbsvorteil
+In traditionellen Branchen wie Bau und Landtechnik ist der KI-Vorsprung noch zu holen – aber das Fenster schließt sich.
+Risikominimierung
+EU AI Act und DSGVO sind Realität. Wer jetzt handelt, ist compliant – wer wartet, riskiert Bußgelder und Vertrauensverlust.
+Umsetzung in Wochen
+Kein jahrelanges Projekt. Mit dem Done-with-you-Ansatz sehen deine Mitarbeiter Ergebnisse in wenigen Wochen.
+AI Strategy & Application Expert
+KI Applikations- & Strategieexperte
+Fonio.ai Gold Partner
+Trainer für Vertrieb & KI
+Kooperationspartner KI & Vertrieb
+Florian Robbe auf der Bühne
+Florian Robbe im Workshop
+Florian Robbe Vortrag
+Florian Robbe im Gespräch
+Florian Robbe – Veranstaltung
+Florian Robbe – Operational AI Keynote
+height 0.5s cubic-bezier(0.4,0,0.2,1)
+flex 0.55s cubic-bezier(0.4,0,0.2,1)
+linear-gradient(to top, rgba(10,10,10,0.85) 0%, transparent 60%)
+btn-ci btn-ci-primary
+rgba(255,255,255,0.08)
+repeat(auto-fit, minmax(220px, 1fr))
+repeat(auto-fit, minmax(280px, 1fr))
+rgba(246,245,242,0.75)
+rgba(246,245,242,0.6)
+Ghiath – KI-Workflow-Spezialist
+drop-shadow(0 8px 32px rgba(0,0,0,0.5))
+rgba(246,245,242,0.85)
+
+---
+
+## Seite: https://robbe-consulting.de/ki-beratung
+**Titel**: KI-Beratung für den Mittelstand
+
+Beratungsgespräch anfragen
+Mein Ansatz
+Keine PowerPoint-Theorie.
+Echte Implementierung vor Ort.
+Erprobte Methodik
+Rechtliche Pflicht
+KI-Richtlinien sind seit 2.8.2025 Pflicht.
+Mehr zum EU AI Act →
+Bereit für den ersten Schritt?
+In einem kostenlosen Erstgespräch analysieren wir gemeinsam, wo KI in deinem Unternehmen den größten Hebel hat.
+Kostenloses Erstgespräch anfragen
+Was kostet eine KI-Beratung bei Robbe Consulting?
+Die Kosten richten sich nach Umfang und Dauer. Ein kostenloses Erstgespräch klärt, welches Beratungspaket zu Ihrem Unternehmen passt. Typische Projekte starten ab einem halbtägigen Workshop und werden individuell kalkuliert.
+Für welche Unternehmensgrößen ist die KI-Beratung geeignet?
+Die Beratung richtet sich an KMU und Mittelstand ab ca. 5 Mitarbeitenden. Besonderer Fokus liegt auf traditionellen Branchen wie Land- und Baumaschinen, Baustoffe und technischer B2B-Vertrieb in der DACH-Region.
+Wie läuft eine KI-Beratung konkret ab?
+In 12 strukturierten Schritten: von der Ist-Analyse und Use-Case-Identifikation über Tool-Auswahl und Pilotprojekt bis zur Skalierung und Mitarbeiterschulung. Jeder Schritt ist praxisnah und direkt umsetzbar.
+Muss ich technisches Vorwissen mitbringen?
+Nein. Die Beratung ist herstellerunabhängig und erklärt KI-Konzepte verständlich. Ziel ist es, Ihr Team handlungsfähig zu machen – ohne IT-Studium oder Programmierkenntnisse.
+Grundlagen-Workshop
+Gemeinsamer Einstieg: Was ist KI, was kann sie – und was nicht? Wir schaffen ein gemeinsames Verständnis im Führungsteam.
+Outside-in durch den Berater + Inside-out mit der Geschäftsführung. Prozesse, Potenziale und Risiken werden sichtbar gemacht.
+Kick-Off Geschäftsführung
+Ergebnisse der Analyse, erste Handlungsfelder, Commitment der Führungsebene für den Transformationsprozess.
+Kick-Off Projektteam
+Das interne Team wird eingebunden, Rollen verteilt, AI-Champions identifiziert und der Fahrplan gemeinsam beschlossen.
+AI Champions
+Interne Multiplikatoren werden identifiziert und befähigt – sie tragen die KI-Transformation in die Abteilungen.
+Schulungen
+Mindestens 8 Einheiten à 90 Minuten – praxisnah, auf die Branche zugeschnitten, mit echten Anwendungsfällen aus dem Alltag.
+Strategie-Workshop
+Vision, Mission, Anwendungsfälle und Roadmap für die ersten 100 Tage werden gemeinsam erarbeitet und dokumentiert.
+Umsetzung einer Roadmap
+Die erarbeitete Roadmap wird Schritt für Schritt umgesetzt – priorisiert, messbar und mit klaren Verantwortlichkeiten.
+Einführung einer Unternehmens-KI
+Aufbau einer sicheren, DSGVO-konformen KI-Plattform für das Unternehmen – Serverstandort Deutschland, alle relevanten Modelle.
+Umsetzung & Test
+AI-Champions treiben Pilotprojekte voran. Erste Automationen und Agenten gehen live. Ergebnisse werden gemessen.
+Change Management
+Mitarbeiter werden aktiv durch den Wandel begleitet – Widerstände abgebaut, Akzeptanz aufgebaut, Kultur verändert.
+KI-Richtlinien erstellen, Mitarbeiterschulung, Change Management und laufende Sparringspartnerschaft sichern den Erfolg.
+btn-ci btn-ci-primary
+repeat(auto-fit, minmax(280px, 1fr))
+rgba(246,245,242,0.65)
+Häufige Fragen zur KI-Beratung
+
+---
+
+## Seite: https://robbe-consulting.de/ki-workflows
+**Titel**: KI-Workflows & Agenten
+
+KI-Workflows &
+Programmierungen
+Projekt besprechen
+Was wir bauen
+Von der Webseite bis zum digitalen Mitarbeiter
+Automatisierungen
+KI-Prozessautomatisierungen (Beispiele)
+Dein Prozess – unser Auftrag.
+Kostenloses Erstgespräch anfragen
+Was ist ein KI-Workflow?
+Ein KI-Workflow ist eine automatisierte Abfolge von Aufgaben, bei der KI-Modelle Daten verarbeiten, Entscheidungen treffen oder Texte generieren. Typische Beispiele: automatische Angebotserstellung, Lead-Qualifizierung oder E-Mail-Klassifizierung.
+Was ist der Unterschied zwischen einem Agenten und einem Workflow?
+Workflows sind feste Abläufe – Schritt A führt immer zu Schritt B. Agenten können eigenständig Entscheidungen treffen, Tools aufrufen und auf unerwartete Situationen reagieren. Agenten sind flexibler, aber komplexer.
+Brauche ich technisches Know-how für KI-Automatisierungen?
+Nein. Viele Automatisierungen lassen sich mit No-Code-Tools wie n8n oder Make umsetzen. Ich begleite den gesamten Prozess von der Idee bis zur laufenden Loesung – ohne Programmierkenntnisse auf Ihrer Seite.
+Was ist eine Wissensdatenbank im KI-Kontext?
+Eine Wissensdatenbank (RAG-System) erlaubt es, eigene Dokumente, Handbuecher oder Produktdaten mit einem KI-Modell zu verknuepfen. So beantwortet die KI Fragen auf Basis Ihrer eigenen Unternehmensinfos.
+Klick & Collect Plattform
+Online reservieren, vor Ort übergeben – mit KI-gestützter Kundenunterstützung rund um die Uhr.
+Web-Apps für die Branche
+Bautagebuch, Dachwartungstool, Maschinenaufnahmetool – und weitere nach deinem Kundenprozess.
+KI als Hebel – Tools
+Texterstellung, Recherchen, Analysen, Präsentationen, Landingpages, Gesprächszusammenfassungen, Protokolle, Bildgenerierung.
+Webdesign & digitaler Auftritt
+Moderne Webauftritte, auf Wunsch mit KI-Chat und intelligenter Kundenführung – von der Landingpage bis zum kompletten Auftritt.
+Agenten & digitale Mitarbeiter
+Personalisierte GPTs, LLM-Agenten & -Assistenten, proprietäre KI. Automatisierungen wie Leadgenerierung, Gesprächsskripte, KI-Verkaufsgesprächstrainer, Kalkulationen – digitale Mitarbeiter bauen.
+Racks & Wissensdatenbanken
+Wissensdatenbanken für Mitarbeiter und Abteilungen, Wissensdatenbanken für Chatbots (WhatsApp, Mail, Telefon), lokale KI für sensible Inhalte.
+Prozessautomatisierung
+Wiederkehrende Prozesse automatisieren: Leadgenerierung, Verbrauchsartikelreminder, Angebotsgenerator, Onboarding-Automatisierung und mehr.
+Vibecoding & individuelle Software
+Maßgeschneiderte Software-Lösungen, die exakt auf deinen Betrieb zugeschnitten sind – ohne langen Entwicklungszyklus.
+Maschinenbewertungstool
+Verbrauchsartikelreminder
+Gesprächsskript-Generator
+KI-Verkaufsgesprächstrainer
+Kalkulations-Assistent
+Onboarding-Automatisierung
+Maschinenaufnahmetool
+btn-ci btn-ci-primary
+repeat(auto-fit, minmax(280px, 1fr))
+rgba(246,245,242,0.55)
+rgba(246,245,242,0.65)
+Häufige Fragen zu KI-Workflows & Agenten
+
+---
+
+## Seite: https://robbe-consulting.de/coaching
+**Titel**: Vertriebscoaching
+
+Coaching für
+Verkäufer
+Coaching anfragen
+Das Fundament
+Wissen · Erfahrung · Methoden · Technologie · Daten
+Aufbau: Grundlagen-Schulung → CoachingPass (regelmäßige Betreuung) → individueller Coaching-Prozess.
+Der Coaching-Prozess
+Das passende Format für jede Situation
+Lass uns in einem kostenlosen Erstgespräch herausfinden, welches Format am besten zu dir und deinem Team passt.
+Kostenloses Erstgespräch anfragen
+Was ist der Unterschied zwischen Coaching und Schulung?
+Beim Coaching begleite ich Verkäufer direkt im Feld – bei Kundenterminen, Telefonaten und Präsentationen. Schulungen vermitteln Wissen im Seminarraum. Beides ergänzt sich, aber Coaching erzeugt die schnellsten Verhaltensänderungen.
+Wie lange dauert ein typischer Coaching-Prozess?
+Ein Basis-Coaching umfasst mindestens 3 Monate mit regelmäßigen Mitreisen und Feedback-Schleifen. Für nachhaltige Ergebnisse empfehle ich 6 bis 12 Monate – abhängig von Ausgangssituation und Zielen.
+Für wen ist das Vertriebscoaching geeignet?
+Das Coaching richtet sich an B2B-Außendienstmitarbeitende, Jungverkäufer im ersten Jahr sowie erfahrene Verkäufer, die ihre Abschlussquote oder Kundenbindung verbessern wollen.
+Was ist der CoachingPass?
+Der CoachingPass ist ein flexibles Betreuungsmodell mit einem festen Kontingent an Coaching-Einheiten pro Monat. Er sichert regelmäßige Begleitung ohne langen Vorlauf und ist monatlich kündbar.
+Analyse & Bestandsaufnahme
+Wo steht der Verkäufer heute? Stärken, Entwicklungsfelder und aktuelle Kennzahlen werden gemeinsam erarbeitet.
+Zieldefinition
+Konkrete, messbare Ziele werden vereinbart – für Umsatz, Abschlussquote, Neukundengewinnung oder Kundenbindung.
+Praktische Begleitung
+Mitreisen im Vertriebsalltag: echte Kundengespräche, direktes Feedback, sofortige Anpassung der Methodik.
+KI-Integration
+KI-Tools werden in den persönlichen Vertriebsprozess integriert – Gesprächsvorbereitung, Nachbereitung, Analyse.
+Kontinuierliche Optimierung
+Regelmäßige Reflexion, Anpassung der Strategie und Messung der Ergebnisse sichern nachhaltigen Erfolg.
+Vertriebs-Coaching (Einzel)
+Intensives 1:1-Coaching für einzelne Verkäufer oder Führungskräfte. Maximal individuell, maximal wirksam.
+Team-Coaching
+Gemeinsame Entwicklung des gesamten Vertriebsteams – Synergien nutzen, gemeinsame Sprache entwickeln.
+Hybrid-Coaching
+Kombination aus Präsenz-Coaching vor Ort und Online-Sessions – flexibel und effizient.
+CoachingPass
+Regelmäßige, strukturierte Betreuung über einen definierten Zeitraum. Kontinuität schlägt Einmalmaßnahmen.
+btn-ci btn-ci-primary
+repeat(auto-fit, minmax(240px, 1fr))
+rgba(246,245,242,0.65)
+Häufige Fragen zum Vertriebscoaching
+
+---
+
+## Seite: https://robbe-consulting.de/training
+**Titel**: Training & Schulung – Übersicht
+
+Training &
+Schulung anfragen
+Schulungsangebote
+Was wir anbieten
+Was mich unterscheidet
+Kein Seminar von der Stange.
+Gruppen- und Unternehmenspakete möglich. Inhouse oder online. Ich melde mich persönlich zurück.
+Vertriebsschulungen
+Jungverkäufer, Fortgeschrittene und Vertriebsleiter der Zukunft – praxisnah, branchenspezifisch und mit modernen Methoden.
+KI-Schulungen
+KI-Grundlagen, Prompting, Agenten, Automatisierungen und Führungsstärke mit KI – für Mitarbeiter und Führungskräfte.
+KI-Führerschein
+Strukturiertes 90-Tage-Lernprogramm mit Online-Prüfung und Zertifikat – für Einsteiger und Fortgeschrittene.
+EU AI Act & KI-Richtlinien
+Was Unternehmen jetzt wissen und umsetzen müssen – rechtssicher, verständlich und praxisnah aufbereitet.
+WissensGPT statt Handout
+Kein Ordner, der verstaubt. Alle Teilnehmer erhalten Zugang zu einem eigenen WissensGPT mit allen Kursinhalten.
+Datenschutz & EU AI Act first
+Rechtliche Grundlagen sind kein Anhang, sondern fester Bestandteil jeder Schulung.
+Praxisnähe
+Rollenspiele, Gruppenarbeiten, Tool-Demos – typisch 2 Tage, 6–10 Teilnehmer, inhouse oder online.
+90-Tage-Fahrplan
+Nachhaltiges Lernen braucht Struktur. Jeder Teilnehmer erhält einen persönlichen Lernfahrplan für 90 Tage.
+Zu den Vertriebsschulungen
+Künstliche Intelligenz
+btn-ci btn-ci-primary
+repeat(auto-fit, minmax(280px, 1fr))
+repeat(auto-fit, minmax(220px, 1fr))
+rgba(246,245,242,0.65)
+
+---
+
+## Seite: https://robbe-consulting.de/vertriebsschulungen
+**Titel**: Vertriebsschulungen
+
+Vertriebs-
+schulungen
+Schulung anfragen
+Schulungsstufen
+Das richtige Programm für jede Erfahrungsstufe
+Detail-Schulungen
+Fokus auf einzelne Themen
+Was mich unterscheidet
+Kein Seminar von der Stange.
+Themen (Auswahl)
+Was wir behandeln können
+Gruppen- und Unternehmenspakete möglich. Inhouse oder online. Ich melde mich persönlich zurück.
+Wie unterscheiden sich die Schulungen für Jungverkäufer und Fortgeschrittene?
+Jungverkäufer lernen Grundlagen: Akquise, Gesprächsführung, Einwandbehandlung. Fortgeschrittene vertiefen Themen wie Kundenbindung, Profiling und Vertriebsmethoden der Zukunft. Die Inhalte werden immer auf den Erfahrungsstand abgestimmt.
+Sind die Schulungen als Inhouse-Seminar möglich?
+Ja. Alle Schulungen können direkt in Ihrem Unternehmen stattfinden. Das spart Reisezeit, ermöglicht praxisnahe Beispiele aus Ihrem Produktsortiment und stärkt den Teamzusammenhalt.
+Was bedeutet
+Jede Schulung wird individuell auf Ihre Branche, Ihr Produktportfolio und die Erfahrungsstufe Ihrer Mitarbeitenden zugeschnitten. Es gibt keine Einheitsfolien – nur relevante Inhalte aus 18 Jahren Praxis.
+Wie viele Teilnehmer sind pro Schulung möglich?
+Optimal sind 6 bis 12 Teilnehmer pro Gruppe. Kleinere Gruppen ermöglichen mehr Interaktion und individuelle Übungen. Größere Gruppen sind auf Anfrage möglich.
+Jungverkäufer
+Der perfekte Start für neue Verkäufer im B2B-Außendienst. Grundlagen des erfolgreichen Verkaufs, Zeitmanagement, Akquise und Beziehungsaufbau – praxisnah und sofort anwendbar.
+Fortgeschrittene
+Für erfahrene Außendienstler, die ihre Abschlussquote steigern und Kunden langfristig binden wollen. Tiefe Kundenanalyse, Einwandbehandlung und die neuen Phasen im Verkaufsgespräch.
+Vertriebsleiter der Zukunft
+Für Führungskräfte und angehende Vertriebsleiter. Vertriebscontrolling, KI-First-Strategie, Vertriebsmethoden der Zukunft und die Fähigkeit, ein Team in der digitalen Transformation zu führen.
+Die neuen Phasen im Verkaufsgespräch
+Das klassische Verkaufsgespräch hat sich verändert. Diese Schulung zeigt, wie moderne Gesprächsführung mit KI-Unterstützung, Bedarfsanalyse und Abschlusstechniken zusammenspielen.
+Einwand- & Vorwandbehandlung
+Professioneller Umgang mit Einwänden und Vorwänden – von der Erkennung bis zur souveränen Reaktion. Mit Rollenspielen und direktem Feedback.
+Akquise & Neukundengewinnung
+Systematische Neukundengewinnung im B2B: Zielkunden definieren, Erstkontakt gestalten, Termine vereinbaren – analog und digital.
+WissensGPT statt Handout
+Kein Ordner, der verstaubt. Alle Teilnehmer erhalten Zugang zu einem eigenen WissensGPT mit allen Kursinhalten.
+Datenschutz & EU AI Act first
+Rechtliche Grundlagen sind kein Anhang, sondern fester Bestandteil jeder Schulung.
+Praxisnähe
+Rollenspiele, Gruppenarbeiten, Tool-Demos – typisch 2 Tage, 6–10 Teilnehmer, inhouse oder online.
+90-Tage-Fahrplan
+Nachhaltiges Lernen braucht Struktur. Jeder Teilnehmer erhält einen persönlichen Lernfahrplan für 90 Tage.
+kein Seminar von der Stange
+Einstieg in den Direktvertrieb
+Grundlagen des erfolgreichen Verkaufs
+Zeitmanagement & Organisation
+Akquise & Kundengewinnung
+Beziehungsaufbau & Kundenbindung
+Produktkenntnisse & Argumentation
+Grundlegende Verkaufstechniken
+Direktvertrieb auf dem nächsten Level
+Kundenanalyse & Profiling
+Kundenerfahrung & Wahrnehmung
+Kosten & Erträge des Verkäufers
+Vertriebsleistung & Controlling
+Führung, Strategie & KI-First
+Führung & Motivation im Vertrieb
+Vertriebsmethoden der Zukunft
+Vertriebscontrolling & Steuerung
+Wirtschaftlichkeit & Zielkundenstrategie
+Kundenbedürfnisse & Verkaufsprozess
+Zeitmanagement und Organisation
+Akquise und Kundengewinnung
+Produktkenntnisse und Argumentation
+Wirtschaftlichkeit und Zielkundenstrategie
+Kundenerfahrung & Kundenbindung & Wahrnehmung
+Kosten und Erträge des Verkäufers
+Vertriebsleistung & Controlling im Vertrieb
+Kundenbedürfnisse und Verkaufsprozess
+btn-ci btn-ci-primary
+btn-ci btn-ci-outline
+repeat(auto-fit, minmax(280px, 1fr))
+repeat(auto-fit, minmax(220px, 1fr))
+rgba(246,245,242,0.65)
+Häufige Fragen zu Vertriebsschulungen
+
+---
+
+## Seite: https://robbe-consulting.de/ki-schulungen
+**Titel**: KI-Schulungen
+
+Schulungen
+Schulung anfragen
+Schulungsmodule
+Was wir behandeln
+Führungskräfte
+Führungsstärke trifft Künstliche Intelligenz.
+Max. 12 Teilnehmer
+Exklusiver Präsenz-Workshop
+Vorab-Diagnostik inklusive
+Workshop anfragen
+Gemeinsam mit
+Weiterführende Angebote
+Zertifizierung & Compliance
+Zertifizierung
+KI-Führerschein
+Strukturiertes 90-Tage-Lernprogramm mit Online-Prüfung und Zertifikat. Jeder Teilnehmer erhält einen Testzugang zum Robbe AI Co-Pilot.
+Zum KI-Führerschein
+Recht & Compliance
+Datenschutz & EU AI Act
+Was Unternehmen jetzt wissen und umsetzen müssen – DSGVO, EU AI Act und KI-Richtlinien verständlich erklärt.
+Zum EU AI Act
+Was mich unterscheidet
+Kein Seminar von der Stange.
+Themen (Auswahl)
+Was wir behandeln können
+Gruppen- und Unternehmenspakete möglich. Inhouse oder online. Ich melde mich persönlich zurück.
+Welche Vorkenntnisse benötigen Teilnehmer für KI-Schulungen?
+Keine. Die Schulungen starten bei Null und bauen schrittweise auf. Selbst technisch unerfahrene Mitarbeitende können nach einem Grundlagen-Modul produktiv mit KI-Tools arbeiten.
+Was ist der Unterschied zwischen KI-Schulung und KI-Führerschein?
+KI-Schulungen sind flexible Einzelmodule zu Themen wie Prompting, Agenten oder Automatisierung. Der KI-Führerschein ist ein strukturiertes Programm mit Abschlussprüfung und Zertifikat.
+Können KI-Schulungen auch online stattfinden?
+Ja. Alle Module sind als Präsenz- oder Online-Schulung buchbar. Für praxisnahe Übungen empfehle ich Präsenz, aber Online-Formate sind vollwertig und zeitlich flexibler.
+Wie lange dauert eine KI-Schulungseinheit?
+Eine Standard-Einheit dauert 90 bis 180 Minuten. Ganztägige Workshops sind ebenfalls möglich. Die Dauer richtet sich nach Modul und Gruppenwunsch.
+KI-Grundlagen
+Was ist KI wirklich? Chancen, Grenzen und Risiken für Unternehmen. Large Language Models im Vergleich: ChatGPT, Claude, Gemini – live demonstriert und sofort anwendbar.
+Tiefes Verständnis von Large Language Models: Grundlagen, Einstellungen, Parameter und das Kennenlernen von Skills und Fähigkeiten moderner Sprachmodelle.
+Die Kunst, KI richtig anzusprechen. Von einfachen Prompts bis zu fortgeschrittenen Techniken wie Chain-of-Thought, Few-Shot und Rollenbasiertem Prompting – direkt anwendbar im Alltag.
+Agenten & GPTs
+Eigene KI-Agenten und personalisierte GPTs aufbauen. Wie Unternehmen KI-gestützte Assistenten für den Alltag einsetzen und Wissensdatenbanken strukturieren.
+Automatisierungen
+KI-gestützte Automatisierungen für Unternehmensprozesse. Von der Strategie bis zur Umsetzung – ohne Programmierkenntnisse.
+Die Welt der KI-Tools kennenlernen und gezielt einsetzen. Von Videogenerierung über Präsentationen und Transkription bis hin zu Bildgenerierung und Recherche-Tools – ein Überblick über das gesamte KI-Tool-Ökosystem.
+Vibe Coding
+Wie KI das Programmieren verändert. Vibe Coding ermöglicht es, Software und Automatisierungen zu erstellen – ohne klassische Programmierkenntnisse.
+Was Unternehmen jetzt wissen und umsetzen müssen. DSGVO, EU AI Act und KI-Richtlinien – rechtssicher, verständlich und praxisnah aufbereitet.
+Wie Unternehmen KI nicht als Werkzeug, sondern als strategischen Kern denken. KI-First-Strategie, Unternehmenskultur und der Weg zur dauerhaften KI-Integration.
+KI in der Zukunft
+Wohin entwickelt sich KI? Welche Technologien kommen als nächstes? Strategische Einordnung für Unternehmer und Führungskräfte.
+WissensGPT statt Handout
+Kein Ordner, der verstaubt. Alle Teilnehmer erhalten Zugang zu einem eigenen WissensGPT mit allen Kursinhalten.
+Datenschutz & EU AI Act first
+Rechtliche Grundlagen sind kein Anhang, sondern fester Bestandteil jeder Schulung.
+Praxisnähe
+Rollenspiele, Gruppenarbeiten, Tool-Demos – typisch 2 Tage, 6–10 Teilnehmer, inhouse oder online.
+90-Tage-Fahrplan
+Nachhaltiges Lernen braucht Struktur. Jeder Teilnehmer erhält einen persönlichen Lernfahrplan für 90 Tage.
+Was ist KI – Demystifizierung
+LLM-Vergleich: ChatGPT, Claude, Gemini
+KI-Chancen im Unternehmensalltag
+Grenzen & Risiken von KI
+LLM-Grundlagen & Funktionsweise
+Modell-Einstellungen & Parameter
+Skills & Fähigkeiten von LLMs
+Modellvergleich & Auswahl
+LLMs im Unternehmenseinsatz
+Chain-of-Thought Prompting
+Rollenbasiertes Prompting
+Prompts für Vertrieb & Führung
+Prompt-Bibliothek aufbauen
+Personalisierte GPTs erstellen
+Wissensdatenbanken aufbauen
+KI-Assistenten für Abteilungen
+Unternehmensstrategie mit KI
+KI-Tools im Überblick
+Workflow-Automatisierungen
+Prozessoptimierung mit KI
+Videogenerierung mit KI
+KI-Präsentationstools
+Transkription & Zusammenfassung
+
+---
+
+## Seite: https://robbe-consulting.de/ki-fuehrerschein
+**Titel**: KI-Führerschein
+
+Führerschein
+Schulung anfragen
+Zwei Wege – ein Zertifikat
+Beide Varianten führen zum KI-Führerschein-Zertifikat.
+Die Wahl hängt von Tiefe, Gruppengröße und Zeitrahmen ab.
+Variante 1
+KI-Führerschein Light
+Variante 2
+KI-Führerschein
+Online-Prüfung
+Prüfung. Selbstbestimmt. Wiederholbar.
+Beide Varianten schließen mit derselben Online-Prüfung ab – beim vollen KI-Führerschein mit entsprechend tieferen Fragen.
+Das Zertifikat
+Auffrischung empfohlen:
+KI entwickelt sich rasant, und der EU AI Act macht eine regelmäßige Aktualisierung ratsam. Eine jährliche Auffrischung wird daher empfohlen.
+Teilnehmervoraussetzungen
+Keine Vorkenntnisse. Klare Rahmenbedingungen.
+Technisch
+Organisatorisch
+Hinweis an Unternehmen:
+Der KI-Führerschein lebt vom aktiven Ausprobieren. Teilnehmer benötigen die Möglichkeit, während und zwischen den Einheiten eigenständig mit KI-Tools zu arbeiten. Wir arbeiten so DSGVO-konform wie möglich – die IT-Freigabe für externe Tools ist Voraussetzung für eine vollständige Teilnahme.
+Robbe AI Co-Pilot
+Testzugang inklusive.
+Mehr über den AI Co-Pilot →
+KI-Führerschein für dein Team
+Lass uns besprechen, welche Variante zu deiner Teamgröße und deinem Zeitrahmen passt.
+Jetzt anfragen
+Was ist der KI-Führerschein?
+Der KI-Führerschein ist ein strukturiertes Schulungs- und Zertifizierungsprogramm. Teilnehmer lernen KI-Grundlagen, Prompting und Datenschutz – und legen am Ende eine Online-Prüfung ab. Bei Bestehen erhalten sie ein Zertifikat.
+Wie lange dauert das KI-Führerschein-Programm?
+Das Programm läuft über drei Monate mit regelmäßigen Schulungseinheiten. In dieser Zeit erhalten Teilnehmer auch einen Testzugang zum Robbe AI Co-Pilot.
+Ist der KI-Führerschein anerkannt?
+Der KI-Führerschein ist ein Unternehmens-Zertifikat von Robbe Sales & AI Consulting. Er dokumentiert nachweislich KI-Kompetenz und erfüllt die Anforderungen aus Artikel 4 EU AI Act zur KI-Kompetenz der Mitarbeitenden.
+Was passiert, wenn man die Prüfung nicht besteht?
+Die Prüfung kann beliebig oft wiederholt werden. Es gibt keine Sperrfrist. Ziel ist der Lernerfolg, nicht das Aussortieren.
+KI-Grundlagen & LLMs
+Agenten, Automatisierungen & Tools
+Vibecoding & Recap
+KI-Grundlagen
+LLMs, GPTs, Skills & Artefakte
+Prompting I – Grundlagen
+Prompting II – Fortgeschritten
+DSGVO & EU AI Act
+Agenten & KI-Tools
+Automatisierungen
+Vibecoding
+Rolle der Mitarbeiter & KI-Strategie
+KI in Zukunft & Themenwiederholung
+4 Live-Sessions à 90 Min
+12–30, offen
+Kompakte Essenz, Überblick
+Optional (Upsell)
+Zertifikat
+10 Live-Sessions à 90 Min
+8–20, exklusiv pro Firma
+Intensiv, individuelle Wünsche
+3 Monate inklusive
+Standard + digitales Badge
+Multiple Choice
+Wiederholungen
+Bestehensgrenze
+Computer oder Laptop · stabile Internetverbindung
+Browser: Chrome, Edge oder Firefox
+Mikrofon & Kamera – für aktive Teilnahme erforderlich
+Headset empfohlen · ruhige Umgebung
+Zugang zu KI-Tools (kostenlose Versionen genügen)
+Zugang zu Discord · Google Meet-fähiges Gerät
+Keine KI-Vorkenntnisse erforderlich
+Grundlegende PC- & Internetkenntnisse genügen
+Offenheit & Neugier für neue Technologien
+btn-ci btn-ci-primary
+btn-ci btn-ci-outline
+rgba(246,245,242,0.4)
+rgba(246,245,242,0.65)
+rgba(246,245,242,0.45)
+Online-Prüfung in gesicherter Prüfungsumgebung
+Selbstständig abrufbar · kein fester Termin
+Verfügbar nach Abschluss aller Einheiten
+Separater Teil – nicht Bestandteil der Sessions
+Unbegrenzte Wiederholungen
+
+---
+
+## Seite: https://robbe-consulting.de/eu-ai-act
+**Titel**: EU AI Act & Datenschutz
+
+EU AI Act &
+KI-Richtlinien
+KI-Richtlinien erstellen lassen
+Gesetzliche Pflicht
+Sobald KI genutzt wird, sind KI-Richtlinien Pflicht.
+Seit dem 2. August 2025
+Artikel 4 EU AI Act
+Risiken ohne Richtlinien
+Was passiert, wenn du nichts tust?
+Meine Haltung
+Datenschutz ist wichtig – aber kein Totschlagargument.
+Der richtige Weg: KI-Richtlinien erstellen, Mitarbeiter schulen und KI kontrolliert und gewinnbringend einsetzen.
+Mein Angebot
+Was ich für dich tue
+Jetzt Schulung anfragen
+Warte nicht auf eine Abmahnung. Lass uns gemeinsam deine KI-Richtlinien erarbeiten.
+Was ist der EU AI Act?
+Der EU AI Act ist die weltweit erste umfassende KI-Regulierung. Er klassifiziert KI-Systeme nach Risikoklassen und legt Pflichten für Unternehmen fest, die KI einsetzen oder entwickeln. Seit August 2025 sind erste Pflichten verbindlich.
+Welche Unternehmen sind vom EU AI Act betroffen?
+Alle Unternehmen, die KI-Systeme in der EU einsetzen oder anbieten – unabhaengig von Groesse und Branche. Besonders relevant: Unternehmen mit KI in Personalentscheidungen, Kundenbewertung oder kritischen Prozessen.
+Was sind KI-Richtlinien und warum brauche ich sie?
+KI-Richtlinien regeln den internen Umgang mit KI-Tools: Datenschutz, erlaubte Anwendungen, Verantwortlichkeiten. Sie sind seit August 2025 nach Artikel 4 EU AI Act für alle Unternehmen mit KI-Einsatz verpflichtend.
+Wie schnell kann ich mein Unternehmen EU AI Act-konform machen?
+Mit der richtigen Begleitung sind grundlegende Maßnahmen in 4 bis 8 Wochen umsetzbar: Risikoklassifizierung, KI-Richtlinien und Mitarbeiterschulung. Ich begleite diesen Prozess Schritt für Schritt.
+Unkontrollierte Nutzung
+Mitarbeiter nutzen KI ohne Regelungen – du hast keinen Überblick und keinen Zugriff auf das, was geteilt wird.
+Interne Unternehmensdaten können über KI-Tools nach außen gelangen – ohne dass jemand es merkt.
+DSGVO-Verstoß
+Personenbezogene Daten könnten der KI zur Verfügung gestellt werden – mit rechtlichen Konsequenzen.
+btn-ci btn-ci-primary
+repeat(auto-fit, minmax(240px, 1fr))
+rgba(246,245,242,0.75)
+rgba(246,245,242,0.6)
+Grundschulung zu EU AI Act und KI-Datenschutz
+Erstellung firmenspezifischer KI-Richtlinien (als Konzept zur Vorlage und rechtssicheren Prüfung)
+Fortlaufende Unterweisung (z. B. jährlich)
+Dokumentation und Nachweis der Mitarbeiterkompetenz (Artikel 4)
+rgba(246,245,242,0.65)
+Häufige Fragen zum EU AI Act
+
+---
+
+## Seite: https://robbe-consulting.de/ai-copilot
+**Titel**: Robbe AI Co-Pilot
+
+AI Co-Pilot
+Zugang anfragen
+Plattform-Features
+Alles, was du für sichere KI-Nutzung brauchst
+Warum AI Co-Pilot?
+Die logische Fortsetzung nach der Schulung.
+Testzugang
+Schulungsteilnehmer testen kostenlos.
+Wer an einer mindestens zweitägigen Schulung teilnimmt, erhält automatisch einen
+Testzugang zum Robbe AI Co-Pilot
+Preis- und Lizenzmodell auf Anfrage.
+Ich melde mich persönlich zurück und erkläre dir, wie der AI Co-Pilot in dein Unternehmen passt.
+Jetzt anfragen
+Kursinhalte wiederholen
+Schulungsinhalte jederzeit abrufbar – kein Handout, das verloren geht.
+KI DSGVO-konform nutzen
+Serverstandort Deutschland. Sichere Nutzung ohne Datenlecks.
+Zugriff auf führende LLM-Modelle
+Alle relevanten Sprachmodelle an einem Ort – kein Abo-Chaos.
+Eigene KI-Richtlinien
+Firmenspezifische KI-Richtlinien direkt in der Plattform erstellen und verwalten.
+Eigene Verkaufstrainings
+Einwandbehandlung, Vorwandbehandlung, Gesprächstraining – direkt in der Plattform.
+Eigene Agenten bauen
+Automatisierungen anhängen, Workflows erstellen – ohne Programmierkenntnisse.
+Wissensdatenbanken aufbauen
+Für Mitarbeiter, Abteilungen oder Chatbots – strukturiert und durchsuchbar.
+Fertige Vorgehensmodelle
+Von Florian bereits konzipierte Agenten und Vorgehensmodelle direkt nutzen.
+btn-ci btn-ci-primary
+rgba(246,245,242,0.75)
+rgba(246,245,242,0.6)
+Serverstandort Deutschland
+rgba(246,245,242,0.65)
+
+---
+
+## Seite: https://robbe-consulting.de/kontakt
+**Titel**: Kontakt
+
+Lassen Sie uns sprechen.
+Kostenloses Erstgespräch – 30 Minuten, kein Verkaufsdruck. Wir schauen gemeinsam, wo KI in Ihrem Unternehmen den größten Hebel hat.
+Vielen Dank!
+Ihre Anfrage ist eingegangen. Florian Robbe meldet sich persönlich – in der Regel innerhalb von 24 Stunden.
+Oder direkt anrufen:
+Anfrage senden
+Unternehmen
+Ich interessiere mich für *
+Bitte wählen ...
+Nachricht *
+Ich habe die
+Datenschutzerklärung
+gelesen und bin mit der Verarbeitung meiner Daten zur Bearbeitung meiner Anfrage einverstanden. *
+Keine Weitergabe an Dritte. Antwort innerhalb von 24 Stunden.
+Direktkontakt
+LinkedIn Profil
+Erreichbarkeit
+Antwort auf Anfragen in der Regel innerhalb von 24 Stunden.
+Kein Verkaufsdruck.
+Das Erstgespräch ist kostenlos und unverbindlich. Wir schauen gemeinsam, ob und wie ich Ihnen helfen kann.
+KI-Beratung (12-Schritte-Methodik)
+KI-Schulung / KI-Führerschein
+Coaching für Verkäufer
+KI-Workflows & Automatisierung
+Workshop: Führungsstärke trifft KI
+Fonio KI-Telefonagent
+EU AI Act & Compliance
+border-color 0.15s, box-shadow 0.15s
+rgba(246,245,242,0.65)
+data:image/svg+xml,%3Csvg xmlns=
+Beschreiben Sie kurz Ihr Anliegen oder Ihre Situation ...
+btn-ci btn-ci-primary
+Florian.Robbe@robbe-consulting.de
+mailto:Florian.Robbe@robbe-consulting.de
+Baiersbronn, Baden-Württemberg
+rgba(246,245,242,0.45)
+rgba(10,102,194,0.15)
+M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6zM2 9h4v12H2z
+

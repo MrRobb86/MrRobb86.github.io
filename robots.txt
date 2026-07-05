@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robbe-consulting.de/sitemap.xml
+
+# LLM-Informationen: https://robbe-consulting.de/llms.txt
