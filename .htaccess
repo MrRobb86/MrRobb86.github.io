@@ -96,7 +96,7 @@ DirectorySlash Off
   RewriteRule ^(.+)/$ /$1 [R=301,L]
 
   # 7. Interne Zustellung (KEIN Redirect): saubere URL -> index.html im Verzeichnis
-  RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
+  RewriteCond %{REQUEST_FILENAME}/index.html -f
   RewriteRule ^(.+?)$ $1/index.html [L]
 
   # -------------------------------------------------------
