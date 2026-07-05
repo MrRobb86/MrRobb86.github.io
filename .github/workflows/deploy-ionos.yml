@@ -1,0 +1,39 @@
+# Automatisches Deployment zu IONOS bei jedem Push auf main.
+# Voraussetzung: drei Repository-Secrets (Settings > Secrets and variables > Actions):
+#   IONOS_HOST      – FTPS-/SFTP-Hostname aus dem IONOS Control-Center (z.B. access-XXXXXXXXX.webspace-host.com)
+#   IONOS_USER      – FTP-Benutzername (z.B. u123456789 oder acc...)
+#   IONOS_PASSWORD  – zugehöriges Passwort
+# Der Workflow lädt nur GEÄNDERTE Dateien hoch (Sync-Statusdatei auf dem Server).
+name: Deploy zu IONOS
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Per FTPS zu IONOS hochladen
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.IONOS_HOST }}
+          username: ${{ secrets.IONOS_USER }}
+          password: ${{ secrets.IONOS_PASSWORD }}
+          protocol: ftps
+          # Zielverzeichnis auf dem Webspace. "./" = Stammverzeichnis des FTP-Zugangs.
+          # Falls robbe-consulting.de auf einen Unterordner zeigt (im IONOS
+          # Control-Center unter Domains > Verwendung sichtbar), hier anpassen,
+          # z.B. "robbe-consulting/" .
+          server-dir: ./
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
+            README.md
+            .nojekyll
+            .gitignore
