@@ -21,7 +21,11 @@ AddCharset UTF-8 .html .htm .css .js .json .txt .xml .svg
 # Security headers
 # -------------------------------------------------------
 Header always set X-Content-Type-Options "nosniff"
-Header always set X-Frame-Options "SAMEORIGIN"
+# Einbett-Schutz: statt X-Frame-Options per CSP frame-ancestors —
+# erlaubt die eigene Messe-Kiosk-App (Robbeversum) und lokale Entwicklung,
+# blockiert weiterhin jede fremde Einbettung.
+Header always unset X-Frame-Options
+Header always set Content-Security-Policy "frame-ancestors 'self' https://messe.robbe-consulting.de http://localhost:5173"
 Header always set Referrer-Policy "strict-origin-when-cross-origin"
 
 # -------------------------------------------------------
