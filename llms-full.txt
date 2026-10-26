@@ -151,7 +151,7 @@ Projekt besprechen
 Was wir bauen
 Von der Webseite bis zum digitalen Mitarbeiter
 Automatisierungen
-KI-Prozessautomatisierungen (Beispiele)
+Projekte aus der Praxis (Auswahl)
 Dein Prozess – unser Auftrag.
 Kostenloses Erstgespräch anfragen
 Was ist ein KI-Workflow?
@@ -165,26 +165,31 @@ Eine Wissensdatenbank (RAG-System) erlaubt es, eigene Dokumente, Handbuecher ode
 Klick & Collect Plattform
 Online reservieren, vor Ort übergeben – mit KI-gestützter Kundenunterstützung rund um die Uhr.
 Web-Apps für die Branche
-Bautagebuch, Dachwartungstool, Maschinenaufnahmetool – und weitere nach deinem Kundenprozess.
+Bautagebuch, Dachwartungstool für den Bedachungshandel, Maschinenaufnahme, Arbeitssicherheits-Verwaltung & -Dokumentation – gebaut nach deinem Kundenprozess.
 KI als Hebel – Tools
 Texterstellung, Recherchen, Analysen, Präsentationen, Landingpages, Gesprächszusammenfassungen, Protokolle, Bildgenerierung.
 Webdesign & digitaler Auftritt
 Moderne Webauftritte, auf Wunsch mit KI-Chat und intelligenter Kundenführung – von der Landingpage bis zum kompletten Auftritt.
 Agenten & digitale Mitarbeiter
-Personalisierte GPTs, LLM-Agenten & -Assistenten, proprietäre KI. Automatisierungen wie Leadgenerierung, Gesprächsskripte, KI-Verkaufsgesprächstrainer, Kalkulationen – digitale Mitarbeiter bauen.
-Racks & Wissensdatenbanken
+Personalisierte GPTs, LLM-Agenten & -Assistenten, proprietäre KI. Automatisierungen wie Leadgenerierung, Gesprächsskripte, KI-Verkaufsgesprächstrainer, Kalkulationen – digitale Mitarbeiter bauen. Auf Wunsch als White-Label-Unternehmens-KI: deine eigene sichere KI-Plattform.
+RAGs & Wissensdatenbanken
 Wissensdatenbanken für Mitarbeiter und Abteilungen, Wissensdatenbanken für Chatbots (WhatsApp, Mail, Telefon), lokale KI für sensible Inhalte.
 Prozessautomatisierung
-Wiederkehrende Prozesse automatisieren: Leadgenerierung, Verbrauchsartikelreminder, Angebotsgenerator, Onboarding-Automatisierung und mehr.
+Wiederkehrende Prozesse automatisieren – von n8n und Make bis Microsoft Power Automate. Auch Excel- und Office-Automatisierungen, die täglich Stunden sparen.
 Vibecoding & individuelle Software
 Maßgeschneiderte Software-Lösungen, die exakt auf deinen Betrieb zugeschnitten sind – ohne langen Entwicklungszyklus.
-Maschinenbewertungstool
-Verbrauchsartikelreminder
-Gesprächsskript-Generator
-KI-Verkaufsgesprächstrainer
-Kalkulations-Assistent
-Onboarding-Automatisierung
-Maschinenaufnahmetool
+Gebrauchtmaschinenbewertung – maschinenbewertung.app
+Website-Leadfinder (Besucher-Erkennung)
+Dachwartungstool für den Bedachungsgroßhandel
+Arbeitssicherheits-Verwaltung & -Dokumentation
+Bautagesberichte fürs Baugewerbe
+Service-App für Werkstätten (Reklamation bis Kommunikation)
+Turnierplaner & Vereinssoftware
+Click & Collect für den Einzelhandel
+KI-Angebotskalkulation für Fertigungsbetriebe
+OCR-Dokumentenablage
+White-Label-Unternehmens-KI
+Excel- & Office-Automatisierungen
 btn-ci btn-ci-primary
 repeat(auto-fit, minmax(280px, 1fr))
 rgba(246,245,242,0.55)
@@ -652,3 +657,31 @@ rgba(246,245,242,0.45)
 rgba(10,102,194,0.15)
 M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6zM2 9h4v12H2z
 
+=============================================================================
+SOFTWARE & PRODUKTE (Stand 26.10.2026)
+=============================================================================
+
+Robbe Sales & AI Consulting entwickelt neben Beratung und Schulung individuelle
+Software und eigene Produkte:
+
+Eigenes Produkt – Maschinenbewertung.app (https://maschinenbewertung.app):
+Gebrauchte Land- und Baumaschinen in rund 5 Minuten bewerten statt in einer
+Stunde. Sieben Marktportale, LECTURA-Notierung und KI-Zustandsanalyse aus Fotos,
+entwickelt in Zusammenarbeit mit der LECTURA GmbH. Für Landtechnik- und
+Baumaschinenhändler, vom Einzelbetrieb bis zum Haus mit mehreren Niederlassungen.
+
+Projekte aus der Praxis (Auswahl, ohne Kundennamen):
+- Website-Leadfinder: erkennt DSGVO-konform, welche Unternehmen eine Website
+  besuchen (selbst gehostet, läuft auf robbe-consulting.de live)
+- Dachwartungstool für den Bedachungsgroßhandel
+- Arbeitssicherheits-Verwaltungs- und Dokumentationssoftware
+- Bautagesberichte fürs Baugewerbe
+- Service-App für Werkstätten: Reklamationsmanagement bis Kundenkommunikation
+- Turnierplaner & Vereinssoftware
+- Click & Collect für den Einzelhandel
+- KI-Angebotskalkulation für Fertigungsbetriebe
+- OCR-Digitalisierung und automatische Dokumentenablage
+- White-Label-Unternehmens-KI (eigene sichere KI-Plattform)
+- Excel- & Office-Automatisierungen, Komplettdigitalisierung von Büros
+  (Microsoft 365 bis Open Source), APIs & MCP-Anbindungen
+- Automatisierungen von n8n und Make bis Microsoft Power Automate

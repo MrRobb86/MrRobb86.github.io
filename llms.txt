@@ -12,7 +12,8 @@ Lösungen und Datenschutz nach deutschem bzw. EU-Recht.
 ## Leistungen
 
 - KI-Beratung: https://robbe-consulting.de/ki-beratung - KI-Strategie und Use-Case-Analyse für KMU
-- KI-Workflows & Agenten: https://robbe-consulting.de/ki-workflows - Automatisierung, Agenten und Wissensdatenbanken
+- KI-Workflows & Agenten: https://robbe-consulting.de/ki-workflows - Automatisierung (n8n bis Power Automate), Agenten, Wissensdatenbanken und individuelle Software: Web-Apps, OCR-Dokumentenablage, Website-Leadfinder, Service-Apps für Werkstätten, Click & Collect, APIs & MCP-Anbindungen
+- Maschinenbewertung.app: https://maschinenbewertung.app - Gebrauchtmaschinen-Bewertung für Land- und Baumaschinenhändler in rund 5 Minuten (eigenes Produkt, mit LECTURA-Daten)
 - Vertriebscoaching: https://robbe-consulting.de/coaching - Sales-Coaching auf Basis von 18 Jahren Praxis
 - Training & Schulung (Übersicht): https://robbe-consulting.de/training - Überblick über alle Schulungs- und Trainingsangebote
 - Vertriebsschulungen: https://robbe-consulting.de/vertriebsschulungen - Für Jungverkäufer, Fortgeschrittene und Führungskräfte

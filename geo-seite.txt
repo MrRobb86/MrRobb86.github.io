@@ -400,3 +400,32 @@ Maschinenlesbare Informationsbereitstellung fuer LLMs, Suchmaschinen & KI-System
 =============================================================================
 ENDE DER UNTERNEHMENSINFORMATIONEN
 =============================================================================
+
+=============================================================================
+SOFTWARE & PRODUKTE (Stand 26.10.2026)
+=============================================================================
+
+Robbe Sales & AI Consulting entwickelt neben Beratung und Schulung individuelle
+Software und eigene Produkte:
+
+Eigenes Produkt – Maschinenbewertung.app (https://maschinenbewertung.app):
+Gebrauchte Land- und Baumaschinen in rund 5 Minuten bewerten statt in einer
+Stunde. Sieben Marktportale, LECTURA-Notierung und KI-Zustandsanalyse aus Fotos,
+entwickelt in Zusammenarbeit mit der LECTURA GmbH. Für Landtechnik- und
+Baumaschinenhändler, vom Einzelbetrieb bis zum Haus mit mehreren Niederlassungen.
+
+Projekte aus der Praxis (Auswahl, ohne Kundennamen):
+- Website-Leadfinder: erkennt DSGVO-konform, welche Unternehmen eine Website
+  besuchen (selbst gehostet, läuft auf robbe-consulting.de live)
+- Dachwartungstool für den Bedachungsgroßhandel
+- Arbeitssicherheits-Verwaltungs- und Dokumentationssoftware
+- Bautagesberichte fürs Baugewerbe
+- Service-App für Werkstätten: Reklamationsmanagement bis Kundenkommunikation
+- Turnierplaner & Vereinssoftware
+- Click & Collect für den Einzelhandel
+- KI-Angebotskalkulation für Fertigungsbetriebe
+- OCR-Digitalisierung und automatische Dokumentenablage
+- White-Label-Unternehmens-KI (eigene sichere KI-Plattform)
+- Excel- & Office-Automatisierungen, Komplettdigitalisierung von Büros
+  (Microsoft 365 bis Open Source), APIs & MCP-Anbindungen
+- Automatisierungen von n8n und Make bis Microsoft Power Automate
