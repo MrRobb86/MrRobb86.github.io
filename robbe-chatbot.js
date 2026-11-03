@@ -16,7 +16,7 @@
   var CONFIG = {
     // Webhook-URL aus deiner n8n-Instanz (Production-URL des Webhook-Node).
     // Beispiel: https://n8n.deine-domain.de/webhook/robbe-chatbot
-    WEBHOOK_URL: "https://n8n.srv1047901.hstgr.cloud/webhook/robbe-chatbot",
+    WEBHOOK_URL: "https://n8n-privat.robbe-consulting.de/webhook/robbe-chatbot",
     TITLE: "Robbe KI-Assistent",
     SUBTITLE: "Fragen zu KI & Vertrieb? Frag mich.",
     ACCENT: "#B3000E",
