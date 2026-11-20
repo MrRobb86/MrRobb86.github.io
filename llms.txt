@@ -1,11 +1,12 @@
 # Robbe Sales & AI Consulting - KI-Beratung & Vertrieb für den Mittelstand
 
-> Robbe Sales & AI Consulting ist eine B2B-Beratung aus Baiersbronn (Schwarzwald),
-> spezialisiert auf KI-Beratung, KI-Schulungen und Vertriebscoaching für KMU und
-> Mittelstand in traditionellen Branchen wie Land- und Baumaschinen sowie Baustoffe.
+> Mach aus deinem Chatbot einen digitalen Mitarbeiter. Robbe Sales & AI Consulting
+> aus Baiersbronn steht für Vertrieb und KI für Handwerk und B2B-Handel, im Speziellen
+> für Land- und Baumaschinenhändler und Bauzubehörhändler.
 
-Inhaber ist Florian Robbe, der über 18 Jahre Vertriebserfahrung mit modernen
-KI-Tools und Automatisierung verbindet. Beraten werden vor allem Unternehmen aus
+Inhaber ist Florian Robbe mit über 20 Jahren Erfahrung im B2B-Vertrieb und KI-Einsatz.
+Zertifiziert als TÜV SÜD AI Strategy and Application Expert, Neurawork Founding
+Associated Partner (Operational AI System) und Fonio.ai Gold Partner. Beraten werden vor allem Unternehmen aus
 der DACH-Region. Der Fokus liegt auf praxisnaher Umsetzung, anbieterunabhängigen
 Lösungen und Datenschutz nach deutschem bzw. EU-Recht.
 
@@ -14,7 +15,7 @@ Lösungen und Datenschutz nach deutschem bzw. EU-Recht.
 - KI-Beratung: https://robbe-consulting.de/ki-beratung - KI-Strategie und Use-Case-Analyse für KMU
 - KI-Workflows & Agenten: https://robbe-consulting.de/ki-workflows - Automatisierung (n8n bis Power Automate), Agenten, Wissensdatenbanken und individuelle Software: Web-Apps, OCR-Dokumentenablage, Website-Leadfinder, Service-Apps für Werkstätten, Click & Collect, APIs & MCP-Anbindungen
 - Maschinenbewertung.app: https://maschinenbewertung.app - Gebrauchtmaschinen-Bewertung für Land- und Baumaschinenhändler in rund 5 Minuten (eigenes Produkt, mit LECTURA-Daten)
-- Vertriebscoaching: https://robbe-consulting.de/coaching - Sales-Coaching auf Basis von 18 Jahren Praxis
+- Vertriebscoaching: https://robbe-consulting.de/coaching - Sales-Coaching auf Basis von über 20 Jahren Praxis
 - Training & Schulung (Übersicht): https://robbe-consulting.de/training - Überblick über alle Schulungs- und Trainingsangebote
 - Vertriebsschulungen: https://robbe-consulting.de/vertriebsschulungen - Für Jungverkäufer, Fortgeschrittene und Führungskräfte
 - KI-Schulungen: https://robbe-consulting.de/ki-schulungen - LLMs, Prompting, Agenten, Automatisierung und Vibe Coding

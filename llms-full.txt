@@ -9,9 +9,8 @@
 **Titel**: Startseite – Robbe Sales & AI Consulting
 
 Robbe Sales & AI Consulting · Baiersbronn
-Praxis trifft
-Vertrieb und Unternehmensprozesse neu gedacht.
-Robbe Sales &amp; AI Consulting ist eine B2B-Beratung aus Baiersbronn (Schwarzwald), spezialisiert auf KI-Beratung, KI-Schulungen und Vertriebscoaching für KMU und Mittelstand. Inhaber Florian Robbe verbindet 18 Jahre Vertriebserfahrung mit moderner KI-Expertise – damit Ihr Unternehmen
+Mach aus deinem Chatbot einen digitalen Mitarbeiter.
+Robbe Sales &amp; AI Consulting aus Baiersbronn begleitet Handwerk und B2B-Handel, im Speziellen Land- und Baumaschinenhändler und Bauzubehörhändler. Florian Robbe bringt über 20 Jahre Erfahrung im B2B-Vertrieb und KI-Einsatz mit, damit dein Unternehmen
 ready für die Zukunft
 Jetzt Kontakt aufnehmen
 Leistungen entdecken
@@ -27,7 +26,7 @@ ChatGPT ist ein Interface. KI ist eine unternehmerische Disziplin. Relevanz ents
 KI-Beratung kennenlernen →
 Über Florian Robbe
 Praktiker, kein Theoretiker.
-Ich begleite Handelsunternehmen mit eigenem Außendienst im B2B – Baustoffhändler, Bauzubehörhändler, Land- & Baumaschinenhändler, Handelsfirmen mit Außendienst sowie Handwerksbetriebe.
+Ich begleite Handwerk und B2B-Handel, im Speziellen Land- und Baumaschinenhändler und Bauzubehörhändler, dazu Baustoffhändler, Handelsfirmen mit Außendienst und Handwerksbetriebe.
 Mein Ansatz:
 Vertrauen & Qualifikation
 Auszeichnungen & Partnerschaften
@@ -40,7 +39,7 @@ Bereit, READY für die Zukunft zu werden?
 Lass uns in einem kostenlosen Erstgespräch herausfinden, wo KI in deinem Unternehmen den größten Hebel hat.
 Kostenloses Erstgespräch anfragen
 Vertriebsschulung & Coaching
-18 Jahre B2B-Vertrieb, praxisnah und konkret. Vom Grundlagen-Training bis zum CoachingPass – immer mit KI-Integration.
+Über 20 Jahre Erfahrung im B2B-Vertrieb und KI-Einsatz, praxisnah und konkret. Vom Grundlagen-Training bis zum CoachingPass, immer mit KI-Integration.
 KI-Workflows & Automatisierungen
 Prozesse digitalisieren, maßgeschneiderte Software bauen, Agenten und RAGs einsetzen – wir schauen uns deine Prozesse an und setzen um.
 KI-Beratung
@@ -67,6 +66,7 @@ Umsetzung in Wochen
 Kein jahrelanges Projekt. Mit dem Done-with-you-Ansatz sehen deine Mitarbeiter Ergebnisse in wenigen Wochen.
 AI Strategy & Application Expert
 KI Applikations- & Strategieexperte
+Founding Associated Partner (Operational AI System)
 Fonio.ai Gold Partner
 Trainer für Vertrieb & KI
 Kooperationspartner KI & Vertrieb
@@ -106,13 +106,13 @@ Bereit für den ersten Schritt?
 In einem kostenlosen Erstgespräch analysieren wir gemeinsam, wo KI in deinem Unternehmen den größten Hebel hat.
 Kostenloses Erstgespräch anfragen
 Was kostet eine KI-Beratung bei Robbe Consulting?
-Die Kosten richten sich nach Umfang und Dauer. Ein kostenloses Erstgespräch klärt, welches Beratungspaket zu Ihrem Unternehmen passt. Typische Projekte starten ab einem halbtägigen Workshop und werden individuell kalkuliert.
+Die Kosten richten sich nach Umfang und Dauer. Ein kostenloses Erstgespräch klärt, welches Beratungspaket zu deinem Unternehmen passt. Typische Projekte starten ab einem halbtägigen Workshop und werden individuell kalkuliert.
 Für welche Unternehmensgrößen ist die KI-Beratung geeignet?
-Die Beratung richtet sich an KMU und Mittelstand ab ca. 5 Mitarbeitenden. Besonderer Fokus liegt auf traditionellen Branchen wie Land- und Baumaschinen, Baustoffe und technischer B2B-Vertrieb in der DACH-Region.
+Die Beratung richtet sich an Handwerk, Handel und Mittelstand jeder Größe, vom Einzelbetrieb bis zum Haus mit mehreren Niederlassungen. Besonderer Fokus liegt auf traditionellen Branchen wie Land- und Baumaschinen, Baustoffe und technischer B2B-Vertrieb in der DACH-Region.
 Wie läuft eine KI-Beratung konkret ab?
 In 12 strukturierten Schritten: von der Ist-Analyse und Use-Case-Identifikation über Tool-Auswahl und Pilotprojekt bis zur Skalierung und Mitarbeiterschulung. Jeder Schritt ist praxisnah und direkt umsetzbar.
 Muss ich technisches Vorwissen mitbringen?
-Nein. Die Beratung ist herstellerunabhängig und erklärt KI-Konzepte verständlich. Ziel ist es, Ihr Team handlungsfähig zu machen – ohne IT-Studium oder Programmierkenntnisse.
+Nein. Die Beratung ist herstellerunabhängig und erklärt KI-Konzepte verständlich. Ziel ist es, dein Team handlungsfähig zu machen – ohne IT-Studium oder Programmierkenntnisse.
 Grundlagen-Workshop
 Gemeinsamer Einstieg: Was ist KI, was kann sie – und was nicht? Wir schaffen ein gemeinsames Verständnis im Führungsteam.
 Outside-in durch den Berater + Inside-out mit der Geschäftsführung. Prozesse, Potenziale und Risiken werden sichtbar gemacht.
@@ -159,9 +159,9 @@ Ein KI-Workflow ist eine automatisierte Abfolge von Aufgaben, bei der KI-Modelle
 Was ist der Unterschied zwischen einem Agenten und einem Workflow?
 Workflows sind feste Abläufe – Schritt A führt immer zu Schritt B. Agenten können eigenständig Entscheidungen treffen, Tools aufrufen und auf unerwartete Situationen reagieren. Agenten sind flexibler, aber komplexer.
 Brauche ich technisches Know-how für KI-Automatisierungen?
-Nein. Viele Automatisierungen lassen sich mit No-Code-Tools wie n8n oder Make umsetzen. Ich begleite den gesamten Prozess von der Idee bis zur laufenden Loesung – ohne Programmierkenntnisse auf Ihrer Seite.
+Nein. Viele Automatisierungen lassen sich mit No-Code-Tools wie n8n oder Make umsetzen. Ich begleite den gesamten Prozess von der Idee bis zur laufenden Loesung – ohne Programmierkenntnisse auf deiner Seite.
 Was ist eine Wissensdatenbank im KI-Kontext?
-Eine Wissensdatenbank (RAG-System) erlaubt es, eigene Dokumente, Handbuecher oder Produktdaten mit einem KI-Modell zu verknuepfen. So beantwortet die KI Fragen auf Basis Ihrer eigenen Unternehmensinfos.
+Eine Wissensdatenbank (RAG-System) erlaubt es, eigene Dokumente, Handbuecher oder Produktdaten mit einem KI-Modell zu verknuepfen. So beantwortet die KI Fragen auf Basis deiner eigenen Unternehmensinfos.
 Klick & Collect Plattform
 Online reservieren, vor Ort übergeben – mit KI-gestützter Kundenunterstützung rund um die Uhr.
 Web-Apps für die Branche
@@ -297,9 +297,9 @@ Gruppen- und Unternehmenspakete möglich. Inhouse oder online. Ich melde mich pe
 Wie unterscheiden sich die Schulungen für Jungverkäufer und Fortgeschrittene?
 Jungverkäufer lernen Grundlagen: Akquise, Gesprächsführung, Einwandbehandlung. Fortgeschrittene vertiefen Themen wie Kundenbindung, Profiling und Vertriebsmethoden der Zukunft. Die Inhalte werden immer auf den Erfahrungsstand abgestimmt.
 Sind die Schulungen als Inhouse-Seminar möglich?
-Ja. Alle Schulungen können direkt in Ihrem Unternehmen stattfinden. Das spart Reisezeit, ermöglicht praxisnahe Beispiele aus Ihrem Produktsortiment und stärkt den Teamzusammenhalt.
+Ja. Alle Schulungen können direkt in deinem Unternehmen stattfinden. Das spart Reisezeit, ermöglicht praxisnahe Beispiele aus deinem Produktsortiment und stärkt den Teamzusammenhalt.
 Was bedeutet
-Jede Schulung wird individuell auf Ihre Branche, Ihr Produktportfolio und die Erfahrungsstufe Ihrer Mitarbeitenden zugeschnitten. Es gibt keine Einheitsfolien – nur relevante Inhalte aus 18 Jahren Praxis.
+Jede Schulung wird individuell auf deine Branche, dein Produktportfolio und die Erfahrungsstufe deiner Mitarbeitenden zugeschnitten. Es gibt keine Einheitsfolien – nur relevante Inhalte aus über 20 Jahren Praxis.
 Wie viele Teilnehmer sind pro Schulung möglich?
 Optimal sind 6 bis 12 Teilnehmer pro Gruppe. Kleinere Gruppen ermöglichen mehr Interaktion und individuelle Übungen. Größere Gruppen sind auf Anfrage möglich.
 Jungverkäufer
@@ -618,8 +618,8 @@ rgba(246,245,242,0.65)
 ## Seite: https://robbe-consulting.de/kontakt
 **Titel**: Kontakt
 
-Lassen Sie uns sprechen.
-Kostenloses Erstgespräch – 30 Minuten, kein Verkaufsdruck. Wir schauen gemeinsam, wo KI in Ihrem Unternehmen den größten Hebel hat.
+Lass uns sprechen.
+Kostenloses Erstgespräch – 30 Minuten, kein Verkaufsdruck. Wir schauen gemeinsam, wo KI in deinem Unternehmen den größten Hebel hat.
 Vielen Dank!
 Ihre Anfrage ist eingegangen. Florian Robbe meldet sich persönlich – in der Regel innerhalb von 24 Stunden.
 Oder direkt anrufen:
@@ -637,7 +637,7 @@ LinkedIn Profil
 Erreichbarkeit
 Antwort auf Anfragen in der Regel innerhalb von 24 Stunden.
 Kein Verkaufsdruck.
-Das Erstgespräch ist kostenlos und unverbindlich. Wir schauen gemeinsam, ob und wie ich Ihnen helfen kann.
+Das Erstgespräch ist kostenlos und unverbindlich. Wir schauen gemeinsam, ob und wie ich dir helfen kann.
 KI-Beratung (12-Schritte-Methodik)
 KI-Schulung / KI-Führerschein
 Coaching für Verkäufer
